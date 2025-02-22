@@ -1,0 +1,5 @@
+<map id="txeo::Tensor::dim" name="txeo::Tensor::dim">
+<area shape="rect" id="Node000001" title="Returns the dimension of this tensor." alt="" coords="212,13,345,38"/>
+<area shape="rect" id="Node000002" href="$classtxeo_1_1_tensor.html#aed433251bd43cde4d7ad556c8ca1a98a" title="Returns the number of elements of this tensor, which corresponds to the dimension of this tensor." alt="" coords="5,5,164,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,28,164,28,164,23,198,23"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="txeo::TensorShape::size" name="txeo::TensorShape::size">
+<area shape="rect" id="Node000001" title="Synonym for txeo::TensorShape::number_of_axes()" alt="" coords="5,13,180,38"/>
+<area shape="rect" id="Node000002" href="$classtxeo_1_1_tensor_shape.html#a2e8af0e1436fa437dd711fc4d75e341b" title="Returns the size of the tensor shape." alt="" coords="228,5,376,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,23,214,23,214,28,180,28"/>
+</map>

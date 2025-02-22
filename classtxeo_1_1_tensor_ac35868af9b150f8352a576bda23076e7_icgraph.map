@@ -1,0 +1,7 @@
+<map id="txeo::Tensor::shape" name="txeo::Tensor::shape">
+<area shape="rect" id="Node000001" title="Returns the shape of this tensor." alt="" coords="216,42,363,67"/>
+<area shape="rect" id="Node000002" href="$classtxeo_1_1_tensor.html#a6a6ac4be55625c963b7c564f80987906" title="Compares the shape of this tensor with the shape of the specified tensor." alt="" coords="5,5,168,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,45,168,40,169,34,203,39"/>
+<area shape="rect" id="Node000003" href="$classtxeo_1_1_tensor.html#a1693a4377adf6327aa2474c14d24f25c" title="Reshapes this tensor if the specified shape vector defines a number of elements equal to this tensor ..." alt="" coords="7,70,167,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,69,167,74,166,69,202,64"/>
+</map>

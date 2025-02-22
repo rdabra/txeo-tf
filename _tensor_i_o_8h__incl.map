@@ -1,0 +1,29 @@
+<map id="include/txeo/TensorIO.h" name="include/txeo/TensorIO.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,5,457,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,96,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,33,110,80,109,74,319,28"/>
+<area shape="rect" id="Node000003" href="$_tensor_8h.html" title=" " alt="" coords="556,79,663,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="410,28,558,72,557,77,408,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="394,225,465,251"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="329,33,263,56,195,89,170,109,153,130,150,152,161,176,175,187,196,197,254,213,320,224,380,230,380,236,319,229,253,218,194,202,172,191,157,179,144,153,149,127,166,105,193,84,261,51,328,28"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="890,152,982,177"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="442,28,552,48,675,76,794,111,893,145,891,150,792,116,674,81,551,54,441,33"/>
+<area shape="rect" id="Node000004" href="$_tensor_shape_8h.html" title=" " alt="" coords="647,152,763,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,102,680,141,677,146,623,106"/>
+<area shape="poly" id="edge10_Node000003_Node000005" title=" " alt="" coords="611,105,605,140,597,161,585,179,561,199,534,214,479,232,477,227,532,209,558,195,581,176,592,158,600,139,606,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="800,225,877,251"/>
+<area shape="poly" id="edge12_Node000003_Node000007" title=" " alt="" coords="664,96,732,113,766,129,798,150,821,179,834,211,830,213,816,182,794,154,764,133,730,118,662,101"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="687,225,750,251"/>
+<area shape="poly" id="edge14_Node000003_Node000010" title=" " alt="" coords="663,93,694,100,725,110,755,127,778,151,784,169,778,187,765,204,749,219,745,215,761,201,773,185,778,169,774,153,751,131,723,115,693,105,662,99"/>
+<area shape="rect" id="Node000011" href="$_tensor_iterator_8h.html" title=" " alt="" coords="171,152,325,177"/>
+<area shape="poly" id="edge7_Node000003_Node000011" title=" " alt="" coords="556,106,320,152,319,147,555,101"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="350,152,437,177"/>
+<area shape="poly" id="edge9_Node000003_Node000013" title=" " alt="" coords="575,107,442,150,440,145,574,101"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="461,152,571,177"/>
+<area shape="poly" id="edge11_Node000003_Node000014" title=" " alt="" coords="596,106,544,146,540,141,593,102"/>
+<area shape="poly" id="edge13_Node000003_Node000015" title=" " alt="" coords="662,101,877,148,876,153,661,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,180,479,227,477,222,660,175"/>
+<area shape="poly" id="edge5_Node000004_Node000007" title=" " alt="" coords="728,175,806,216,804,221,726,180"/>
+<area shape="poly" id="edge6_Node000004_Node000010" title=" " alt="" coords="710,177,717,211,711,212,705,178"/>
+<area shape="poly" id="edge8_Node000011_Node000005" title=" " alt="" coords="278,175,388,218,386,223,276,180"/>
+</map>
